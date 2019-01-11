@@ -1,0 +1,21 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  estate: MyString
+  plot_no: MyString
+  location: MyString
+  units_on_plot: 1
+  field_officer: 1
+  plot_name: MyString
+  town: MyString
+  comm: 9.99
+
+two:
+  estate: MyString
+  plot_no: MyString
+  location: MyString
+  units_on_plot: 1
+  field_officer: 1
+  plot_name: MyString
+  town: MyString
+  comm: 9.99
